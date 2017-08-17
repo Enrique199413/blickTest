@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import click from './blickUtils.js'
+import api from './api.js'
 
 
 class App extends Component {

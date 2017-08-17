@@ -2,7 +2,7 @@
   "name": "blick",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://carloscorream.github.io/blick/.",
+  "homepage": "https://carloscorream.github.io/blickTest/.",
   "dependencies": {
     "gh-pages": "^1.0.0",
     "react": "^15.6.1",
